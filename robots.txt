@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaereesaez.gitarrenlehrer-halle.de/sitemap.xml
